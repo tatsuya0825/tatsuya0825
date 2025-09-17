@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Tatsuya%20Shibata&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%7C%20DevOps%20%7C%20Full-Stack%20Developer&descSize=18&descColor=eeeeee"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USER/REPO/main/fireworks.svg" width="100%" />
 </p>
 
 <p align="center">
