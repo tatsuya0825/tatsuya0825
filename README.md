@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tatsuya0825/tatsuya0825/main/fireworks.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/tatsuya0825/tatsuya0825/main/fireworks.svg?v=2" width="100%" height="64" />
 </p>
 
 <p align="center">
