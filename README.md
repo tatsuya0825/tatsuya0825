@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tatsuya0825/tatsuya0825/main/fireworks.svg?v=2" width="100%" height="64" />
+  <img src="https://raw.githubusercontent.com/tatsuya0825/tatsuya0825/main/fireworks.svg?v=4" width="100%" height="64" />
 </p>
 
 <p align="center">
@@ -42,10 +42,24 @@ Focused on building **scalable**, **high-quality**, and **innovative** solutions
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Profile Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tatsuya0825&show_icons=true&theme=vue-dark&bg_color=0d1117&title_color=00bcd4&text_color=ffffff" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tatsuya0825&theme=dark&hide_border=true&background=0D1117&ring=6A11CB&fire=2575FC&currStreakLabel=FFFFFF" height="175"/>
+  <img src="https://komarev.com/ghpvc/?username=tatsuya0825&label=Profile%20views&color=6a11cb&style=flat" alt="profile views" />
+  <a href="https://github.com/tatsuya0825?tab=followers">
+    <img src="https://img.shields.io/github/followers/tatsuya0825?label=Followers&style=flat&color=2575fc" alt="followers"/>
+  </a>
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 </p>
 
 ---
