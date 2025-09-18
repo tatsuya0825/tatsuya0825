@@ -50,16 +50,16 @@
   </defs>
 
   <g transform="translate(80,28)"><use href="#burst"/></g>
-  <g transform="translate(130,22) scale(0.9)"><use href="#burst"/></g>
-  <g transform="translate(50,36) scale(0.85)"><use href="#burst"/></g>
+  <g transform="translate(130,22) scale(0.9)"><use href="#burst"><animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.35s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(50,36) scale(0.85)"><use href="#burst"><animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.7s" repeatCount="indefinite"/></use></g>
 
-  <g transform="translate(600,28)"><use href="#burst"/></g>
-  <g transform="translate(650,22) scale(0.9)"><use href="#burst"/></g>
-  <g transform="translate(550,36) scale(0.85)"><use href="#burst"/></g>
+  <g transform="translate(600,28)"><use href="#burst"><animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.15s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(650,22) scale(0.9)"><use href="#burst"><animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.5s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(550,36) scale(0.85)"><use href="#burst"><animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.85s" repeatCount="indefinite"/></use></g>
 
-  <g transform="translate(1120,30)"><use href="#burst"/></g>
-  <g transform="translate(1070,24) scale(0.9)"><use href="#burst"/></g>
-  <g transform="translate(1150,38) scale(0.85)"><use href="#burst"/></g>
+  <g transform="translate(1120,30)"><use href="#burst"><animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.25s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(1070,24) scale(0.9)"><use href="#burst"><animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.6s" repeatCount="indefinite"/></use></g>
+  <g transform="translate(1150,38) scale(0.85)"><use href="#burst"><animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.95s" repeatCount="indefinite"/></use></g>
 
   <animate attributeName="opacity" values="1;0.98;1" dur="4s" repeatCount="indefinite"/>
 </svg>
