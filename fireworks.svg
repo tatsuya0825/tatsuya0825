@@ -28,6 +28,7 @@
         <animate attributeName="r" values="0;12;0" keyTimes="0;0.25;1" dur="1.2s" repeatCount="indefinite"/>
         <animate attributeName="opacity" values="0;0.9;0" keyTimes="0;0.6;1" dur="1.2s" repeatCount="indefinite"/>
       </circle>
+
       <g transform="rotate(0)"><use href="#ray"/></g>
       <g transform="rotate(30)"><use href="#ray"/></g>
       <g transform="rotate(60)"><use href="#ray"/></g>
@@ -40,6 +41,7 @@
       <g transform="rotate(270)"><use href="#ray"/></g>
       <g transform="rotate(300)"><use href="#ray"/></g>
       <g transform="rotate(330)"><use href="#ray"/></g>
+
       <g><use href="#spark"><animateTransform attributeName="transform" type="translate" values="0,0;16,-10;0,0" keyTimes="0;0.55;1" dur="1.2s" repeatCount="indefinite"/></use></g>
       <g><use href="#spark"><animateTransform attributeName="transform" type="translate" values="0,0;-14,-8;0,0" keyTimes="0;0.55;1" dur="1.2s" repeatCount="indefinite"/></use></g>
       <g><use href="#spark"><animateTransform attributeName="transform" type="translate" values="0,0;10,14;0,0" keyTimes="0;0.55;1" dur="1.2s" repeatCount="indefinite"/></use></g>
@@ -47,37 +49,17 @@
     </g>
   </defs>
 
-  <!-- left side: 3 bursts looping with phase shift -->
-  <g transform="translate(80,28)">
-    <use href="#burst"/>
-  </g>
-  <g transform="translate(130,22) scale(0.9)">
-    <use href="#burst">
-      <animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.35s" repeatCount="indefinite"/>
-    </use>
-  </g>
-  <g transform="translate(50,36) scale(0.85)">
-    <use href="#burst">
-      <animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.7s" repeatCount="indefinite"/>
-    </use>
-  </g>
+  <g transform="translate(80,28)"><use href="#burst"/></g>
+  <g transform="translate(130,22) scale(0.9)"><use href="#burst"/></g>
+  <g transform="translate(50,36) scale(0.85)"><use href="#burst"/></g>
 
-  <!-- right side: 3 bursts looping with phase shift -->
-  <g transform="translate(1120,30)">
-    <use href="#burst">
-      <animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.15s" repeatCount="indefinite"/>
-    </use>
-  </g>
-  <g transform="translate(1070,24) scale(0.9)">
-    <use href="#burst">
-      <animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.5s" repeatCount="indefinite"/>
-    </use>
-  </g>
-  <g transform="translate(1150,38) scale(0.85)">
-    <use href="#burst">
-      <animate attributeName="opacity" values="1;1" dur="1.2s" begin="0.85s" repeatCount="indefinite"/>
-    </use>
-  </g>
+  <g transform="translate(600,28)"><use href="#burst"/></g>
+  <g transform="translate(650,22) scale(0.9)"><use href="#burst"/></g>
+  <g transform="translate(550,36) scale(0.85)"><use href="#burst"/></g>
+
+  <g transform="translate(1120,30)"><use href="#burst"/></g>
+  <g transform="translate(1070,24) scale(0.9)"><use href="#burst"/></g>
+  <g transform="translate(1150,38) scale(0.85)"><use href="#burst"/></g>
 
   <animate attributeName="opacity" values="1;0.98;1" dur="4s" repeatCount="indefinite"/>
 </svg>
