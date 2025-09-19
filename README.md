@@ -54,7 +54,7 @@ Focused on building **scalable**, **high-quality**, and **innovative** solutions
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/tatsuya-shibata-09430a385">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:tatsuyashibata087@gmail.com">
