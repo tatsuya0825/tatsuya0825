@@ -57,7 +57,7 @@ Focused on building **scalable**, **high-quality**, and **innovative** solutions
   <a href="https://www.linkedin.com/in/your-profile">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:tatsuyashibata087@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
